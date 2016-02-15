@@ -1,4 +1,4 @@
-mkdir -p /etc/httpd/vhosts.d/
+mkdir -p /etc/httpd/vhosts/
 yum install mutt
 yum update
 service httpd restart
